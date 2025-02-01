@@ -29,7 +29,7 @@ module.exports = {
 
                 // Send video
                 await api.sendMessage({
-                    body: `🌐 Global System Prefix: \`${prefix}\``, 
+                    body: `🌐 Dấu Lệnh Hiện Tại: \`${prefix}\``, 
                     attachment: fs.createReadStream(videoPath) 
                 }, threadID);
             } catch (error) {
