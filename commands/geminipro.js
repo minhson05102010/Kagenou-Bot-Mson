@@ -8,7 +8,7 @@ module.exports = {
     const query = args.join(" "); 
 
     if (query === "") {
-      sendMessage(api, { threadID, message: "Please provide a question or statement for me to respond to." });
+      sendMessage(api, { threadID, message: "Hỏi gì hỏi cụ mày đi." });
       return;
     }
 
@@ -19,11 +19,11 @@ module.exports = {
       if (data.response) {
         sendMessage(api, { threadID, message: data.response });
       } else {
-        sendMessage(api, { threadID, message: "I'm sorry, I couldn't understand your request. Please try again." });
+        sendMessage(api, { threadID, message: "I'm sorry, Tao đéo thể trả lời. Hỏi gì khôn hơn đê địt cụ." });
       }
     } catch (error) {
       console.error("Error calling Gemini Pro API:", error);
-      sendMessage(api, { threadID, message: "An error occurred while processing your request. Please try again later." });
+      sendMessage(api, { threadID, message: "Đéo hiểu thay api đi địt cụ thằng lồn. Please try again later." });
     }
   },
 };
