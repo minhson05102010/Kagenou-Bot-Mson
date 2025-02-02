@@ -1,9 +1,9 @@
 {
-  "en": {
-    "invalid_amount": "Please enter a valid positive amount to bet.",
-    "not_enough_money": "You don't have enough money for that bet.",
-    "jackpot_message": "Jackpot! You won $%1 with three %2 symbols!",
-    "two_match": "You won $%1 with two matching symbols!",
-    "lose_message": "You lost $%1."
+  "vi": {
+    "invalid_amount": "Pé bảo là nhập tiền hẳn hoi🤬.",
+    "not_enough_money": "Hăm đủ tiền còn đòi cờ bạc😏.",
+    "jackpot_message": "Giai Đặc Biệt! Aiu húp $%1 với ba %2 biểu tượng!",
+    "two_match": "Pé chúc mừng aiu húp được $%1 với ba biểu tượng giống nhau!",
+    "lose_message": "Aiu cùi bắp thua rồi $%1."
   }
 }
