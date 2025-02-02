@@ -20,7 +20,7 @@ module.exports = {
       sendMessage(api, { threadID, message: answer });
     } catch (error) {
       console.error('Error with AI command:', error);
-      sendMessage(api, { threadID, message: 'Sorry, I couldn\'t process that request. Please try again.' });
+      sendMessage(api, { threadID, message: 'Xin lỗi, tôi không thể\ Trả lời Aiu.Hãy thử lại sau.' });
     }
   }
 };
