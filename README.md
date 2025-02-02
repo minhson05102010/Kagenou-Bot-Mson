@@ -5,41 +5,35 @@ The Seven Shadows are Cid Kagenou's elite shadow organization.  Each member poss
 
 | King of Shadow garden | Image             | Description                                                                        |
 |--------------|----------------------|------------------------------------------------------------------------------------|
-| Cid Kagenou (King)        | ![Shadow](image/Shadow.jpg) | Cid Kagenou a.k.a shadow is the king of shadow garden and the seven shadows, and his loyal comrades Alpha is the strongest leader in Seven shadows.                                   |
+| Cid Kagenou (King)        | ![Shadow](image/Shadow.jpg) | Cid Kagenou hay còn gọi là cái bóng là vua của khu vườn bóng tối và bảy cái bóng, còn những người đồng đội trung thành của anh là Alpha là thủ lĩnh mạnh nhất trong Bảy cái bóng.                                   |
 
 | Member Name | Image             | Description                                                                        |
 |--------------|----------------------|------------------------------------------------------------------------------------|
-| Alpha (Leader)       | ![Alpha](image/Alpha.jpg) | [Alpha is the strongest of the Seven Shadow Garden, a powerful magic swordsman. He's a loyal and determined individual, always putting the well-being of his comrades first. However, his true strength is hidden beneath a seemingly playful and carefree exterior.]                                            |
-| Beta         | ![Beta](image/Beta.jpg)  | [Beta is the brains of the group, a skilled strategist and an expert in magic. She's known for her calm and collected demeanor, but she can also be incredibly ruthless when necessary.] |
-| Gamma        | ![Gamma](image/Gamma.jpg) | [Gamma is a master of martial arts, wielding her fists with incredible speed and power. She's fiercely independent and often acts as the voice of reason within the Seven Shadow Garden.]|
-| Delta        | ![Delta](image/Delta.jpg) | [Delta is a skilled archer and marksman, known for her pinpoint accuracy. She's fiercely loyal to her comrades and will stop at nothing to protect them.]|
-| Epsilon      | ![Epsilon](image/Epsilon.jpg) | [Epsilon is a master of illusions and deception, capable of manipulating the minds of others. He's a cunning and manipulative individual, but he also has a strong sense of justice.]|
-| Zeta         | ![Zeta](image/Zeta.jpg)  | [Zeta is a master of stealth and infiltration, capable of moving through shadows undetected. She's a skilled assassin and a deadly opponent in close combat.] |
-| Eta          | ![Eta](image/Eta.jpg)   | [Eta is a skilled healer and a master of life magic. She's a kind and compassionate individual, always willing to help those in need.]  |
+| Alpha (Leader)       | ![Alpha](image/Alpha.jpg) | [Alpha là người mạnh nhất của Seven Shadow Garden, một kiếm sĩ ma thuật mạnh mẽ. Anh ấy là một người trung thành và quyết đoán, luôn đặt lợi ích của đồng đội lên hàng đầu. Tuy nhiên, sức mạnh thực sự của anh lại ẩn giấu bên dưới vẻ ngoài có vẻ vui tươi và vô tư..]                                            |
+| Beta         | ![Beta](image/Beta.jpg)  | [Beta là bộ não của nhóm, một chiến lược gia tài giỏi và một chuyên gia về phép thuật. Cô ấy nổi tiếng với phong thái điềm tĩnh và tự chủ, nhưng cô ấy cũng có thể cực kỳ tàn nhẫn khi cần thiết..] |
+| Gamma        | ![Gamma](image/Gamma.jpg) | [Gamma là bậc thầy võ thuật, sử dụng nắm đấm của mình với tốc độ và sức mạnh đáng kinh ngạc. Cô ấy có tính độc lập quyết liệt và thường đóng vai trò là tiếng nói của lý trí trong Thất Ảnh Vườn..]|
+| Delta        | ![Delta](image/Delta.jpg) | [
+Delta là một cung thủ và xạ thủ điêu luyện, nổi tiếng với độ chính xác tuyệt đối. Cô ấy trung thành mãnh liệt với đồng đội của mình và sẽ không dừng lại để bảo vệ họ.]|
+| Epsilon      | ![Epsilon](image/Epsilon.jpg) | [Epsilon là bậc thầy về ảo tưởng và lừa dối, có khả năng thao túng tâm trí người khác. Anh ta là một người xảo quyệt và lôi kéo, nhưng anh ta cũng có ý thức mạnh mẽ về công lý..]|
+| Zeta         | ![Zeta](image/Zeta.jpg)  | [Zeta là bậc thầy về tàng hình và xâm nhập, có khả năng di chuyển xuyên qua bóng tối mà không bị phát hiện. Cô ấy là một sát thủ lành nghề và là một đối thủ nguy hiểm khi cận chiến.] |
+| Eta          | ![Eta](image/Eta.jpg)   | [Eta là một người chữa bệnh lành nghề và là bậc thầy về phép thuật cuộc sống. Cô là người tốt bụng và giàu lòng nhân ái, luôn sẵn sàng giúp đỡ những người gặp khó khăn.]  |
 
 ## License
 
 MIT License
 
-Copyright (c) Date: January 20, 2025 | Name and Organization name Aljur Pogoy/GeoArchonsTeam
+Copyright (c) Date: January 20, 2025 | Minh Son depchai🔮
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+===🪦Link phây búc Minh Sơn Đẹp Chai🌸===
+https://www.facebook.com/lms.cutii
+===🔮Discord Minh Sơn cak to🦠===
+https://discord.gg/j8F44eUX
+PHẦN MỀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG", KHÔNG CÓ BẢO ĐẢM DƯỚI BẤT KỲ HÌNH THỨC NÀO, RÕ RÀNG HOẶC
+NGỤ Ý, BAO GỒM NHƯNG KHÔNG GIỚI HẠN ĐẢM BẢO VỀ KHẢ NĂNG BÁN,
+PHÙ HỢP CHO MỘT MỤC ĐÍCH CỤ THỂ VÀ KHÔNG VI PHẠM. TRONG MỌI TRƯỜNG HỢP SẼ KHÔNG ĐƯỢC
+TÁC GIẢ HOẶC NGƯỜI GIỮ BẢN QUYỀN PHẢI TRÁCH NHIỆM VỀ BẤT CỨ KHIẾU NẠI, THIỆT HẠI HOẶC KHÁC
+TRÁCH NHIỆM PHÁP LÝ, CHO DÙ TRONG HÀNH ĐỘNG HỢP ĐỒNG, VIỆC LẠI HAY CÁC CÁCH KHÁC, PHÁT SINH TỪ,
+NGOÀI HOẶC LIÊN QUAN ĐẾN PHẦN MỀM HOẶC VIỆC SỬ DỤNG HOẶC CÁC GIAO DỊCH KHÁC TRONG
 
 ## Examples For making Comamnds
 
